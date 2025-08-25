@@ -1,0 +1,2 @@
+day,1,2,3,4,5,6,7,8,9,10,11,12,13,activity_name,activity_title,product_names,activity_budget,max_reward_count,min_reward_count,duration,customer_id,template_id,activity_type,activity_form,bank_name,location,main_reward_type,secondary_reward_type,day,week,month,year,threshold
+120,135,142,158,167,189,201,215,228,245,267,289,312,335,双11促销活动,双11购物狂欢节,手机、电脑、服装,50000,1000,100,30,customer_001,template_001,促销活动,线上活动,建设银行,北京,话费,积分,11,2,11,2024,0

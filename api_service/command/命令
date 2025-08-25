@@ -1,0 +1,1 @@
+python predict_client.py --csv_file examples/dynamic_sample.csv --task_type dynamic 

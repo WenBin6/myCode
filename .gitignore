@@ -1,0 +1,60 @@
+# 排除不需要的文件夹
+assets/
+bert-base-uncased/
+data/
+excel_handle/
+image/
+results/
+runs/
+scripts/
+test_ipynb/
+
+# 排除系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 排除models文件夹中的.pth文件
+models/*.pth
+
+# 排除Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 排除虚拟环境
+venv/
+env/
+ENV/
+
+# 排除IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 排除日志文件
+*.log
+logs/ 

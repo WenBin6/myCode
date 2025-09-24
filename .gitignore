@@ -1,12 +1,7 @@
 # 排除不需要的文件夹
-assets/
 bert-base-uncased/
 data/
-excel_handle/
-image/
 results/
-runs/
-scripts/
 test_ipynb/
 
 # 排除系统文件
